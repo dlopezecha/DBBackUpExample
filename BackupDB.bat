@@ -8,3 +8,4 @@ mysqldump -v --opt --default-character-set=utf8 -u root test > %DIRPATH%\db_stru
 cd /d %DIRPATH%
 git add .
 git commit -m "Backup DB"
+git push origin main
