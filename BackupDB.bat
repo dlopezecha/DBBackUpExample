@@ -1,4 +1,6 @@
 @echo off
+echo "Make a DB Backup on https://github.com/dlopezecha/DBBackUpExample"
+
 set DIRPATH=%cd%
 set MYSQLPATH="D:\program files\xampp\mysql\bin"
 
